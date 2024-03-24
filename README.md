@@ -5,7 +5,7 @@
 > I been using this build over a year and everything is OK expect the sleep. If you want to try, just give a shot.
 
 <div style="align: center">
-<img src="https://raw.githubusercontent.com/ZinK0/i7-4790-ASRock_Z97_Hackintosh/blob/main/DEMO/Info.png">
+<img src="[https://raw.githubusercontent.com/ZinK0/i7-4790-ASRock_Z97_Hackintosh/blob/main/DEMO/Info.png](https://github.com/ZinK0/i7-4790-ASRock_Z97_Hackintosh/blob/main/DEMO/Info.png)">
 </div>
 
 ## Lanuage
